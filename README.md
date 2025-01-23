@@ -1,7 +1,6 @@
 # 🌟 **Model-Controller Backend API** 🌟
 
-Welcome to the **Model-Controller Backend API**, a clean and well-structured backend built with **PHP** to handle requests and manage resources seamlessly. 🚀 This project showcases a robust **Model-Controller architecture** for efficient resource management and scalability.
-
+This project is a backend API built with PHP, following a Model-Controller architecture to ensure a clean and organized code structure. The API is designed to handle requests and responses for managing resources efficiently. 🚀 
 ---
 
 ## ✨ **Key Features**
@@ -21,4 +20,4 @@ Welcome to the **Model-Controller Backend API**, a clean and well-structured bac
 ---
 
 ## 📖 **About This Project**
-This API was built to highlight the **separation of concerns** principle, ensuring cleaner and more maintainable code. It’s perfect for applications needing reliable database interaction and a scalable backend.
+This API was built to highlight the **separation of concerns** principle, ensuring cleaner and more maintainable code. 
