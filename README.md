@@ -4,10 +4,10 @@ This project is a backend API built with PHP, following a Model-Controller archi
 ---
 
 ## ✨ **Key Features**
-✅ **Model Layer**: Efficiently manages database interactions using **MySQL** for **CRUD** operations.  
-✅ **Controller Layer**: Implements business logic and routes API requests to the appropriate models.  
-✅ **RESTful Endpoints**: Provides a wide range of endpoints for creating, reading, updating, and deleting data.  
-✅ **Modular Design**: Ensures simplified maintenance and effortless scalability.  
+- **Model Layer**: Efficiently manages database interactions using **MySQL** for **CRUD** operations.  
+- **Controller Layer**: Implements business logic and routes API requests to the appropriate models.  
+- **RESTful Endpoints**: Provides a wide range of endpoints for creating, reading, updating, and deleting data.  
+- **Modular Design**: Ensures simplified maintenance and effortless scalability.  
 
 ---
 
